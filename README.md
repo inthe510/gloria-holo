@@ -6,7 +6,7 @@ Mobile-first test-marketing landing page for Gloria, a desktop hologram AI assis
 
 This repository is intentionally static and self-contained.
 
-1. Keep `index.html`, `gloria-device.svg`, `.nojekyll`, and this `README.md` in the root of `main`.
+1. Keep `index.html`, `.nojekyll`, and this `README.md` in the root of `main`.
 2. In the repository, open **Settings → Pages**.
 3. Under **Build and deployment**, choose **Deploy from a branch**.
 4. Select **main** and **/(root)**, then **Save**.
