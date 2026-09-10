@@ -17,7 +17,7 @@ No API keys, credentials, or backend secrets belong in this repository.
 
 Orders are not open. No payments or personal data are collected. The former prototype-only pricing/sign-up form and decorative permission toggles have been replaced with product information and working brochure downloads. Do not present the previous test prices as approved retail prices for the three-model collection.
 
-Before linking checkout, confirm retail prices, included AI service/usage, actual inventory, fulfillment and returns, model-specific photos and the approved TikTok Shop URLs. Connected-service examples describe product direction, not a promise that every integration is currently available.
+Before linking checkout, confirm retail prices, included AI service/usage, actual inventory, fulfillment and returns, model-specific photos and the approved TikTok Shop URLs. The presentation leads with companionship, meaningful personal memory and encouragement, followed by calendar, email and task assistance. Hardware specifications are expandable. Confirm supported integrations, memory retention/controls and service limits before sales open; do not claim perfect recall or clinical outcomes.
 
 ## Product sources
 
